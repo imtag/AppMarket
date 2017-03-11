@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <!-- loading -->
+
+    <RelativeLayout
+        android:id="@+id/item_loadmore_container_loading"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/list_item_bg_normal" >
+
+        <TextView
+            android:id="@+id/tv_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="正在加载更多..."
+            android:textColor="@android:color/black"
+            android:textSize="14sp" />
+
+        <ProgressBar
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="30dp"
+            android:layout_toLeftOf="@id/tv_desc" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/item_loadmore_container_retry"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/selector_item_appinfo_bg" >
+
+        <!-- 加载失败 -->
+
+        <TextView
+            android:id="@+id/item_loadmore_tv_retry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="加载失败,点击重试"
+            android:textColor="@android:color/black"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+</LinearLayout>

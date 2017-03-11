@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="4dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <!-- 简介 -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="简介"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+        <!-- 描述详情区域 -->
+
+        <TextView
+            android:id="@+id/app_detail_des_tv_des"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="内容"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="14sp" />
+
+        <!-- 作者区域 -->
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="25dp" >
+
+            <TextView
+                android:id="@+id/app_detail_des_tv_author"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="作者 : "
+                android:textColor="@android:color/darker_gray"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:id="@+id/app_detail_des_iv_arrow"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/arrow_down" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</FrameLayout>

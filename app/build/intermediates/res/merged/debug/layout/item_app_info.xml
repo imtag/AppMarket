@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_item_appinfo_bg"
+        android:orientation="vertical" >
+
+        <!-- 图片标题下载区域 -->
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="68dp" >
+
+            <!-- 图片 -->
+
+            <ImageView
+                android:id="@+id/item_appinfo_iv_icon"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/ic_default" />
+
+            <!-- 文字部分 -->
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/item_appinfo_iv_icon"
+                android:orientation="vertical" >
+
+                <!-- 标题 -->
+
+                <TextView
+                    android:id="@+id/item_appinfo_tv_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="应用标题"
+                    android:textColor="@android:color/black"
+                    android:textSize="16sp" />
+
+                <!-- 评分 -->
+
+                <RatingBar
+                    android:id="@+id/item_appinfo_rb_stars"
+                    android:layout_width="wrap_content"
+                    android:layout_height="14dp"
+                    android:layout_marginTop="2dp"
+                    android:isIndicator="true"
+                    android:progressDrawable="@drawable/layerlist_ratingbar_bg"
+                    android:rating="3.2" />
+
+                <!-- 应用的大小 -->
+
+                <TextView
+                    android:id="@+id/item_appinfo_tv_size"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:singleLine="true"
+                    android:text="应用大小"
+                    android:textColor="@android:color/darker_gray"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+            <!-- 下载部分 -->
+
+            <com.tfx.googlemarket.view.CircleProgressView
+                android:id="@+id/item_appinfo_cpv_progress"
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:orientation="vertical" >
+            </com.tfx.googlemarket.view.CircleProgressView>
+        </RelativeLayout>
+
+        <!-- 分割线 -->
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/item_divider" />
+
+        <!-- 描述部分 -->
+
+        <TextView
+            android:id="@+id/item_appinfo_tv_des"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"
+            android:layout_marginTop="5dp"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="阿萨德发空间阿萨德了飞机阿萨德啊谁发的了敬爱是发动机阿飞阿喀琉斯发动机拉丝机发的了卡机范德萨暗室逢灯；连接"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        applicationId "com.tfx.googlemarket"
+        minSdkVersion 11
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+    compile 'com.google.code.gson:gson:2.2.1'
+    compile 'com.android.support:appcompat-v7:18.0.0'
+    compile project(':lib_PagerSlidingTabStrip')
+    compile 'com.jiechic.library:xUtils:2.6.14'
+}

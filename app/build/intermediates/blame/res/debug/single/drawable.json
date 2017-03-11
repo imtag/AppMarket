@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_detail_btn_bg.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable\\selector_detail_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_bg.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable\\menu_item_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_grid_item_bg.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable\\selector_grid_item_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pointer_red.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable\\pointer_red.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_appinfo_bg.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable\\selector_item_appinfo_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layerlist_ratingbar_bg.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable\\layerlist_ratingbar_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_bg.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable\\selector_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\GoogleMarket\\lib_PagerSlidingTabStrip\\unspecified\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pointer_gray.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable\\pointer_gray.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\color\\menu_icon_bg.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\color\\menu_icon_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\color\\abc_search_url_text_holo.xml"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_detail.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_category_normal.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_category_normal.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_load_more.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_load_more.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_error.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\pager_error.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_loading.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\pager_loading.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_temp.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_temp.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_subject.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_subject.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_empty.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\pager_empty.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_app_info.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_app_info.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_detail_pic.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_detail_pic.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_pictures.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_home_pictures.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_screen.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_detail_bottom.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_detail_bottom.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\circleprogressview.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\circleprogressview.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_detail_safe.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_detail_safe.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_detail_info.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_detail_info.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_view.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\menu_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_detail_des.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\layout\\item_detail_des.xml"
+    }
+]

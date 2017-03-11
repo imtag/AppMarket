@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#DDDDDD"
+    android:paddingBottom="5dp"
+    android:paddingTop="10dp" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <!-- 收藏button -->
+
+        <Button
+            android:id="@+id/app_detail_download_btn_favo"
+            android:layout_width="68dp"
+            android:layout_height="38dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/selector_detail_btn_bg"
+            android:text="收藏"
+            android:textColor="@android:color/white" />
+
+        <!-- 分享button -->
+
+        <Button
+            android:id="@+id/app_detail_download_btn_share"
+            android:layout_width="68dp"
+            android:layout_height="38dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/selector_detail_btn_bg"
+            android:text="分享"
+            android:textColor="@android:color/white" />
+
+        <!-- 下载区域 -->
+
+        <com.tfx.googlemarket.view.ProgressButton
+            android:id="@+id/app_detail_download_btn_download"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@id/app_detail_download_btn_share"
+            android:layout_toRightOf="@id/app_detail_download_btn_favo"
+            android:background="@drawable/selector_detail_btn_bg"
+            android:text="下载"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+
+</FrameLayout>

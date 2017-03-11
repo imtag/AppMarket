@@ -1,0 +1,7 @@
+#Fri Mar 10 15:22:28 CST 2017
+base.0=D\:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4ca7c8c9813c0538028bde2149e5c61e8b3486b3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0a079c2c7a7f84c7044e363c3076e239d02e7fc3\\classes.dex
+base.1=D\:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0a079c2c7a7f84c7044e363c3076e239d02e7fc3
+file.0=D\:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4ca7c8c9813c0538028bde2149e5c61e8b3486b3\\classes.dex

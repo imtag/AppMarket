@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppMarket</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="main_titles">
+        <item>首页</item>
+        <item>应用</item>
+        <item>游戏</item>
+        <item>专题</item>
+        <item>推荐</item>
+        <item>分类</item>
+        <item>排行</item>
+    </string-array>
+
+    <string name="detail_downloadNum">下载量：%1$s</string>
+    <string name="detail_size">大小：%1$s  </string>
+    <string name="detail_version">版本：%1$s</string>
+    <string name="detail_date">时间：%1$s</string>
+
+    <!-- menu -->
+    <string name="app_detail_info_downloadnum">下载: %1$s</string>
+    <string name="app_detail_info_version">版本: %1$s</string>
+    <string name="app_detail_info_time">时间: %1$s</string>
+    <string name="app_detail_info_size">大小: %1$s</string>
+    <string name="tv_home">首页</string>
+    <string name="tv_setting">设置</string>
+    <string name="tv_theme">主题</string>
+    <string name="tv_scans">安装包管理</string>
+    <string name="tv_feedback">反馈</string>
+    <string name="tv_updates">检查更新</string>
+    <string name="tv_about">关于</string>
+    <string name="tv_exit">退出</string>
+    <string name="tv_user_name">未知</string>
+    <string name="tv_user_email">unknown@qq.com</string>
+
+</resources>

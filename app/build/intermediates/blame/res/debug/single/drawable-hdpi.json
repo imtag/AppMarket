@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_divider.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\list_divider.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_default.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_default.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_up.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\arrow_up.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_big_inner.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\spinner_big_inner.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_empty_page.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_empty_page.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_holo_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_holo_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rating_small_empty.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\rating_small_empty.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\indicator_normal.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\indicator_normal.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer_am.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer_am.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_solid_light_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_pressed.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_install.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_install.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photo_over.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\photo_over.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home_slide.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_home_slide.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_disabled.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_down.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_scans.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_scans.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_btn_pressed.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\progress_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_resume.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_resume.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\detail_btn_normal.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\detail_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_item_bg_pressed.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\list_item_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_bg.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\progress_bg.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_theme.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_theme.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_normal.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_updates.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_updates.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_btn_normal.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\progress_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tab.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\bg_tab.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_smart_update.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_smart_update.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cancel.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_big_outer.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\spinner_big_outer.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\detail_bottom_bg.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\detail_bottom_bg.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_small_outer.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\spinner_small_outer.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_uninstall.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_uninstall.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_exit.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_exit.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_download.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_download.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_normal.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\progress_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\detail_btn_pressed.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\detail_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_redownload.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_redownload.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\grid_item_bg_normal.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\grid_item_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rating_small_full.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\rating_small_full.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\grid_item_bg_pressed.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\grid_item_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_pressed.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\progress_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer_shadow.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rating_small_half.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\rating_small_half.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_setting.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_feedback.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_feedback.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nothing.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\nothing.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_holo_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_item_bg_normal.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\list_item_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_about.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_about.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\indicator_selected.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\indicator_selected.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\action_download.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\action_download.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_item_action_pressed.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\list_item_action_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_small_inner.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\spinner_small_inner.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_photo.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\bg_photo.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_update.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_update.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_cab_done_holo_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_error_page.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\ic_error_page.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_normal.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\GoogleMarket\\app\\src\\main\\res\\drawable-hdpi\\btn_normal.9.png"
+    }
+]

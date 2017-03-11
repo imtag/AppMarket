@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\GoogleMarket\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
+        <dex dex="D:\Workspace\AndroidStudio\GoogleMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jiechic.library-xUtils-2.6.14_56021ae5a63251238353b3ef038aa5a2534f98df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\GoogleMarket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="D:\Workspace\AndroidStudio\GoogleMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-18.0.0_d6b97da3a7579967bcc2794ee5217eb4420e98af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\GoogleMarket\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="448990625c0e35326b04aae0d8f1af43fd515795">
+        <dex dex="D:\Workspace\AndroidStudio\GoogleMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0a079c2c7a7f84c7044e363c3076e239d02e7fc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Cache\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.1\d8e711ae108185c59c17b36b3c3f11b20cf9b4d5\gson-2.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8e711ae108185c59c17b36b3c3f11b20cf9b4d5">
+        <dex dex="D:\Workspace\AndroidStudio\GoogleMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.1_e487b889ed481e8a944e9a392fcc6efa83c0504e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\InstallProgramme\Android\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Workspace\AndroidStudio\GoogleMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_93212cd8b455db04f49e3bd8926f1f81b6e961eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\GoogleMarket\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5bf190cd1a06ff3f980f342b70a0dc2418b1908d">
+        <dex dex="D:\Workspace\AndroidStudio\GoogleMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4ca7c8c9813c0538028bde2149e5c61e8b3486b3\classes.dex" />
+    </item>
+
+</items>

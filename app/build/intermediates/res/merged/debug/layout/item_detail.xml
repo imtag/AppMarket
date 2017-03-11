@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 应用的下载部分的view -->
+
+    <FrameLayout
+        android:id="@+id/detail_fl_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/detail_fl_bottom" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <!-- 应用的信息部分的view -->
+
+            <FrameLayout
+                android:id="@+id/detail_fl_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </FrameLayout>
+            <!-- 应用的安全部分的view -->
+
+            <FrameLayout
+                android:id="@+id/detail_fl_safe"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="#fff" >
+            </FrameLayout>
+            <!-- 应用的截图部分的view -->
+
+            <FrameLayout
+                android:id="@+id/detail_fl_pic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </FrameLayout>
+            <!-- 应用的描述部分的view -->
+
+            <FrameLayout
+                android:id="@+id/detail_fl_des"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </FrameLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
