@@ -1,2 +1,2 @@
-# AppMarket
-Android开源项目  -  应用市场
+# AppMarket 
+Android开源项目 - 应用市场
